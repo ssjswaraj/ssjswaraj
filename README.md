@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about **data science**, **machine l
 - [**Dog vs Cat Image Classification**](https://github.com/ssjswaraj/Deep-Learning-and-CV/tree/main/Dogs%20Vs%20Cats%20Classification)  
   This project aims to develop a Convolutional Neural Network (CNN) model to classify images of dogs and cats, using Python and TensorFlow's Keras API. Utilizing a comprehensive dataset of labeled dog and cat images, the project's primary goal is to accurately differentiate between the two classes.The model achieved 91% accuracy, showcasing CNN’s power in image classification. It offers a strong foundation for advancing applications in computer vision.
   
-- [**Travel Insurance Prediction**]([https://github.com/yourusername/face-mask-detection](https://github.com/ssjswaraj/Deploy_Travel_Insurance_ML))  
+- [**Travel Insurance Prediction**](https://github.com/ssjswaraj/Deploy_Travel_Insurance_ML)  
  I developed a predictive model to assess the likelihood of customers purchasing travel insurance using data sourced from an API. After preprocessing the data, I tested various machine learning algorithms and selected Random Forest, achieving 84% accuracy. I then deployed the model as an interactive web application on Streamlit, allowing users to get predictions instantly. This project showcased my skills in data preprocessing, model selection, and deploying machine learning solutions in a production environment.
 
 ## 🌱 Currently Learning:
