@@ -36,8 +36,6 @@ I'm always open to collaboration, new ideas, and discussions. Feel free to reach
 
 ## 📈 GitHub Stats:
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=ssjswaraj&show_icons=true&hide_title=true&hide=prs&count_private=true)
-![Your Stats](https://github-readme-stats.vercel.app/api?username=RashiChandel&show_icons=true&hide_title=true&hide=prs&count_private=true)
-
 
 ---
 > "Data is the new oil, but we must refine it." — **Clive Humby**
