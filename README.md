@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about **data science**, **machine l
 
 ## 🔧 Technologies & Tools:
 
-- **Languages**:  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=sql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?&style=for-the-badge&logo=gnubash&logoColor=white)   ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
+- **Languages**:  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=sql&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 
 - **Machine Learning & Deep Learning**:  ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white)
   
