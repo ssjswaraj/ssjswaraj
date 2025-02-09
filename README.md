@@ -4,10 +4,7 @@ Welcome to my GitHub profile! I'm passionate about **data science**, **machine l
 
 ## 🔧 Technologies & Tools:
 
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=sql&logoColor=white)  
-  ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
+- **Languages**:  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=sql&logoColor=white), ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 
 - **Data Engineering**:  
   ![PySpark](https://img.shields.io/badge/PySpark-%23E76F00.svg?&style=for-the-badge&logo=apache-spark&logoColor=white)  
