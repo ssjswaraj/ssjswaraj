@@ -30,27 +30,17 @@ Welcome to my GitHub profile! I'm passionate about **data science**, **machine l
 - [Project 2](link-to-project)
 
 ## 📫 How to Reach Me:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- Email: [Your Email](mailto:your@email.com)
-
+- LinkedIn: [Swaraj_Gupta](https://www.linkedin.com/in/yourprofile/)
+- Contact: [Email](mailto:meswarajgupta@gmail.com)
+- **Blog**: [Medium](https://medium.com/@swarajgupta)
 
 =====================
 
-
-
-
-
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ## 🌱 Currently Learning:
 - Advanced **Deep Learning** architectures for **image processing** and **natural language processing**.
 - Exploring **Quantum Computing** and its applications in **data science** and **algorithmic trading**.
 
-## 📫 How to Reach Me:
-- **LinkedIn**: [Rashi Chandel](https://www.linkedin.com/in/rashichandel)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Blog**: [Your Blog Name](https://www.yourblog.com)
 
 ## 💬 Let's Connect:
 I'm always open to collaboration, new ideas, and discussions. Feel free to reach out to me on any of the platforms above.
