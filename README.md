@@ -2,6 +2,16 @@
 
 Welcome to my GitHub profile! I'm passionate about **data science**, **machine learning**, **data engineering**, and **open-source projects**. I specialize in developing **data-driven solutions** and building **automated systems** using cutting-edge technologies.
 
+## 🚀 Experience
+
+### Associate Engineer at Smart Analytica  
+*Client: Suryoday Bank*  
+*Technologies: PySpark, Machine Learning, Shell Script, Sqoop, Data Warehousing, Oozie, SQL*
+
+- Developed and optimized **ETL pipelines** using **PySpark**, **Shell Script**, and **Sqoop** for processing large volumes of banking data.
+- Engineered and maintained **data marts** to support business intelligence, ensuring high performance and availability of critical data.
+- Automated and optimized data workflows, improving processing time and data quality for reporting and analytics.
+
 ## 🔧 Technologies & Tools:
 
 - **Languages**:  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=sql&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
@@ -27,8 +37,7 @@ Welcome to my GitHub profile! I'm passionate about **data science**, **machine l
 
 
 ## 📫 How to Reach Me:
-- LinkedIn: [Swaraj_Gupta](https://www.linkedin.com/in/yourprofile/)
-- Contact: [Email](mailto:meswarajgupta@gmail.com)
+- **LinkedIn**: [Swaraj_Gupta](https://www.linkedin.com/in/yourprofile/)
 - **Blog**: [Medium](https://medium.com/@swarajgupta)
 
 ## 💬 Let's Connect:
