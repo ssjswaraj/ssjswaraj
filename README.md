@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about **data science**, **machine l
 *Technologies: PySpark, Machine Learning, Shell Script, Sqoop, Data Warehousing, Oozie, SQL*
 
 - Developed and optimized **ETL pipelines** using **PySpark**, **Shell Script**, and **Sqoop** for processing large volumes of banking data.
+- Implemented **Machine Learning** models for **credit risk prediction**  to assess loan applicants more effectively and reduce financial risks.
 - Engineered and maintained **data marts** to support business intelligence, ensuring high performance and availability of critical data.
 - Automated and optimized data workflows, improving processing time and data quality for reporting and analytics.
 
