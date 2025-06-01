@@ -8,10 +8,20 @@ Welcome to my GitHub profile! I'm passionate about **data science**, **machine l
 *Client: Suryoday Bank*  
 *Technologies: PySpark, Machine Learning, Shell Script, Sqoop, Data Warehousing, Oozie, SQL*
 
-- Developed and optimized **ETL pipelines** using **PySpark**, **Shell Script**, and **Sqoop** for processing large volumes of banking data.
-- Implemented **Machine Learning** models for **credit risk prediction**  to assess loan applicants more effectively and reduce financial risks.
-- Engineered and maintained **data marts** to support business intelligence, ensuring high performance and availability of critical data.
-- Automated and optimized data workflows, improving processing time and data quality for reporting and analytics.
+- Designed and implemented scalable ETL pipelines using Sqoop, PySpark, Hive, and Shell, ensuring reliable and efficient
+data flow from source systems to the data warehouse.
+- Optimized Sqoop ingestion performance by selecting the ideal split-by column and tuning the number of mappers,
+reducing ingestion time by 25%.
+- Developed a pre-approved loan eligibility machine learning model using business-specific datamarts, improving targeting
+accuracy by 15% and reducing credit risk through better customer profiling.
+- Created and maintained 5+ business-critical datamarts, enabling seamless report generation and reducing data retrieval
+time by 30%.
+- Automated and orchestrated ETL workflows using Apache Oozie, cutting manual effort and improving job reliability and
+success rate.
+- Performed exploratory data analysis (EDA) and feature selection on customer transaction data using Python (Pandas,
+Seaborn, Scikit-learn) to identify key behavioral patterns, laying groundwork for future classification models.
+- Automated schema conversion from Greenplum to Hive using custom Linux shell scripting, accelerating migration efforts
+and reducing manual work.
 
 ## 🔧 Technologies & Tools:
 
