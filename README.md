@@ -42,10 +42,11 @@ and reducing manual work.
    - Trained the model using the Trainer class with optimized hyperparameters, achieving low-latency response generation and 30–50% reduction in resource usage without sacrificing output quality—making the model ideal for edge deployments.
   
 3. [**Travel Insurance Prediction**](https://github.com/ssjswaraj/Deploy_Travel_Insurance_ML)
+
    *Tools: Machine Learning, Python, Scikit-learn, Streamlit, API Integration*
-  - Built and optimized a Random Forest model using real-time API data and preprocessing techniques, achieving 84% accuracy in predicting customer travel insurance purchases.
-  - Performed hyperparameter tuning with GridSearchCV to enhance model performance and compared multiple algorithms for best results.
-  - Developed and deployed an interactive Streamlit web app on the community cloud, enabling users to get instant purchase likelihood predictions.
+    -  Built and optimized a Random Forest model using real-time API data and preprocessing techniques, achieving 84% accuracy in predicting customer travel insurance purchases.
+    - Performed hyperparameter tuning with GridSearchCV to enhance model performance and compared multiple algorithms for best results.
+    - Developed and deployed an interactive Streamlit web app on the community cloud, enabling users to get instant purchase likelihood predictions.
 
 ## 🌱 Currently Learning:
 - **Deep Dive into Advanced Machine Learning & Deep Learning**  
