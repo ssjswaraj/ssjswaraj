@@ -34,11 +34,18 @@ and reducing manual work.
 - **Data Visualization**:  ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6347.svg?&style=for-the-badge&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-%23FF8C00.svg?&style=for-the-badge&logo=seaborn&logoColor=white)
 
 ## 🚀 Projects:
-- [**Dog vs Cat Image Classification**](https://github.com/ssjswaraj/Deep-Learning-and-CV/tree/main/Dogs%20Vs%20Cats%20Classification)  
-  This project aims to develop a Convolutional Neural Network (CNN) model to classify images of dogs and cats, using Python and TensorFlow's Keras API. Utilizing a comprehensive dataset of labeled dog and cat images, the project's primary goal is to accurately differentiate between the two classes.The model achieved 91% accuracy, showcasing CNN’s power in image classification. It offers a strong foundation for advancing applications in computer vision.
+1. [**Implementation and Optimization of the Llama 2 Chat Model with Quantized LoRA**](https://github.com/ssjswaraj/LLM-and-NLP/tree/main/Llama%202%20(QLoRA)%20with%20Guanaco%20Database%20Using%20Transformer%20Fine%20Tune#implementation-and-optimization-of-the-llama-2-chat-model-with-quantized-lora)
+
+   *Tools & Libraries: Python, Transformers, PEFT, Bitsandbytes, Accelerate, TRL, Hugging Face Datasets*
+   - Implemented and fine-tuned the Llama 2 Chat Model using Quantized LoRA (Low-Rank Adaptation) to reduce memory and computational requirements for resource-constrained environments.
+   - Loaded and tokenized conversational datasets using Hugging Face libraries, and applied model quantization along with LoRA-based fine-tuning to significantly reduce trainable parameters and memory footprint.
+   - Trained the model using the Trainer class with optimized hyperparameters, achieving low-latency response generation and 30–50% reduction in resource usage without sacrificing output quality—making the model ideal for edge deployments.
   
-- [**Travel Insurance Prediction**](https://github.com/ssjswaraj/Deploy_Travel_Insurance_ML)  
- I developed a predictive model to assess the likelihood of customers purchasing travel insurance using data sourced from an API. After preprocessing the data, I tested various machine learning algorithms and selected Random Forest, achieving 84% accuracy. I then deployed the model as an interactive web application on Streamlit, allowing users to get predictions instantly. This project showcased my skills in data preprocessing, model selection, and deploying machine learning solutions in a production environment.
+3. [**Travel Insurance Prediction**](https://github.com/ssjswaraj/Deploy_Travel_Insurance_ML)
+   *Tools: Machine Learning, Python, Scikit-learn, Streamlit, API Integration*
+  - Built and optimized a Random Forest model using real-time API data and preprocessing techniques, achieving 84% accuracy in predicting customer travel insurance purchases.
+  - Performed hyperparameter tuning with GridSearchCV to enhance model performance and compared multiple algorithms for best results.
+  - Developed and deployed an interactive Streamlit web app on the community cloud, enabling users to get instant purchase likelihood predictions.
 
 ## 🌱 Currently Learning:
 - **Deep Dive into Advanced Machine Learning & Deep Learning**  
